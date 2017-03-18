@@ -78,7 +78,7 @@ static void count(){
             printf("\nAmount of steps for merge sorting 1000 elements = %ld", merge);
         }
     }
-        printf("\nTotal Numbers in n array before merge sort becomes More efficient is %ld ", counter);
+        printf("\nTotal Numbers in n array before merge sort becomes More efficient is %d ", counter);
 }
 
 static void timeT(){
